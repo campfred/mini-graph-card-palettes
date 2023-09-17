@@ -1,0 +1,9 @@
+color_thresholds:
+  - value: 0
+    color: '#ee0202'
+  - value: 20
+    color: '#eecc02'
+  - value: 50
+    color: '#02eec3'
+  - value: 80
+    color: '#02a2ee'
