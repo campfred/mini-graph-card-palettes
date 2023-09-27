@@ -1,0 +1,27 @@
+color_thresholds:
+  # Low
+  - value: 1
+    color: "#00ccff"
+  - value: 2
+    color: "#0099cc"
+  - value: 3
+    color: "#006699"
+  # Moderate
+  - value: 4
+    color: "#ffff00"
+  - value: 5
+    color: "#ffcc00"
+  - value: 6
+    color: "#ff9933"
+  # High
+  - value: 7
+    color: "#ff6666"
+  - value: 8
+    color: "#ff0000"
+  - value: 9
+    color: "#cc0000"
+  - value: 10
+    color: "#990000"
+  # Very high
+  - value: 11
+    color: "#660000"
